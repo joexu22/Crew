@@ -1,4 +1,4 @@
-run = "cowsay Configure me!"
+run = "cowsay Read the README.md!"
 
 [nix]
 channel = "stable-22_11"
