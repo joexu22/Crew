@@ -1,10 +1,7 @@
 # AI Startup Ideas Repo
 
 ## Getting Started
-Read OnePieceModel.md
 
-It's where the actual pitch is
+Read [OnePieceModel.md](./OnePieceModel.md)
 
-## Replit
-
-## MD Files
+Where the actual pitch is...
