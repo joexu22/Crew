@@ -1,0 +1,9 @@
+Jack Clark
+Co-Founder and Head of Policy, Anthropic
+
+This summer, Jack Clark went to see Oppenheimer at a movie theater in San Francisco accompanied by several of his colleagues at Anthropic, one of the world’s leading AI labs. “There was lots of what I’d describe as nervous laughter during the scenes where they talk about whether they were going to set the atmosphere on fire or not with the bomb,” Clark says.
+
+Clark, who co-founded Anthropic and serves as its policy chief, is grappling with questions of how AI could upend geopolitical power and human agency, and what to do about it. (Investors in Anthropic include Salesforce, where TIME co-chair and owner Marc Benioff is CEO.) In a speech to the U.N. Security Council and discussions with world leaders, Clark has advocated for governments to take away much of the decisionmaking power that currently rests in the hands of AI companies, and put it in the hands of bodies ultimately accountable to democratic governments. He says previous efforts to do this—like Meta’s Facebook Oversight Board—failed because they lacked teeth. “To me, it feels like the [oversight body] you need is something that you’re afraid of,” he says. “And basically, that means you need to build real hard capacity in government.”
+
+Christopher Nolan’s biopic about J. Robert Oppenheimer, the flawed creator of the atom bomb—whose efforts at postwar arms control ended in failure—resonated with Clark. “The thing I really liked about Oppenheimer was how large the political infighting figured,” he says. “Technologists spend a lot of time thinking it’s about building and engineering the thing, and after that, people will listen to you because you built it. But one of the lessons from Oppenheimer is: You can build it and you can lose the larger political game. The consequences of that can be technology that gets used in wild ways that you don’t necessarily like.”
+
