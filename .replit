@@ -1,4 +1,4 @@
-run = "cowsay 'Click on README.md\nRead the README.md!'\nprintf '   _______________\n  /               \\\n /                 |\n/                   |\n--------------------'"
+run = "cowsay 'Click here on README.md \n README.md \n Read the README.md!'"
 
 [nix]
 channel = "stable-22_11"
