@@ -20,3 +20,5 @@ It’s not a very sustainable model. It comes at a huge cost to disenfranchised 
 What made you want to do this type of research?
 
 To be honest, I was never excited about this work. I’m a cognitive scientist by training, but the department where I did my Ph.D. was run by the school of computer science. So I was working in a lab full of machine-learning researchers, and I was intrigued by how they sourced their data, how much attention—or lack thereof—they paid to the data. I saw that datasets are really critical to model performance, but also, glaringly, that not many people were paying enough attention to them. Sometimes I get really frustrated, because when you repeatedly look at really gruesome images, it makes you feel sh-tty. It’s not nice. So I guess I was almost forced into it, because nobody else was doing it. As opposed to running with happiness to do this kind of work.
+
+## Credentials

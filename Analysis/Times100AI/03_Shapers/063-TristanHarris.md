@@ -16,3 +16,5 @@ Turbocharging all of this is unbridled ambition. Developers are in a race—with
 The problem, of course, is that while bad guys are everywhere, we all think we’re the good ones. In March, Harris released an open letter—co-signed by a host of leaders in the tech field, including Elon Musk; Apple co-founder Steve Wozniak; and Yoshua Bengio, founder of the AI research institute Mila—calling on all AI labs to pause their work for six months and take that time to reassess the direction of the industry. None did, though Harris was hardly surprised. His hope, however, is that at least it made them think.
 
 “There really are a lot of insane benefits to AI,” he says. “But inseparable from those problems, catastrophic risks.”
+
+## Credentials

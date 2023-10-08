@@ -11,3 +11,4 @@ Ultimately, machine learning could lead to more sophisticated AI tools that can 
 
 “I don’t think there is a pathway now for a truly autonomous AI to be approved in health care,” he says, pointing to the imbalance in the way AI-based algorithms and human doctors are certified to practice. For now, AI algorithms only need to pass certain tests to demonstrate their accuracy in order to be approved by the FDA for use in patients, while doctors have to complete the lengthy and continuous process of medical school, state certification and licensing, hospital certification, and continuing medical education. “At some point, as AI becomes a little more autonomous, we may have to reconsider the [AI approval] process,” he says.
 
+## Credentials

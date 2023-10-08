@@ -8,3 +8,5 @@ The man pondering that question is one of the industry’s most celebrated techn
 In July, OpenAI announced that Sutskever, 37, would be the co-lead of its new Superalignment team, which aims to solve the technical challenge of how to ensure superintelligent AI acts in the interests of humanity. The work is separate from, though parallel to, the company’s shorter-term research efforts into how to align weaker AI systems that exist today or in the near future.
 
 In Sutskever’s view, the task of understanding how to impress certain values onto significantly superhuman systems could not have higher stakes. “The upshot is, eventually AI systems will become very, very, very capable and powerful,” he says. “We will not be able to understand them. They’ll be much smarter than us. By that time it is absolutely critical that the imprinting is very strong, so they feel toward us the way we feel toward our babies.”
+
+## Credentials

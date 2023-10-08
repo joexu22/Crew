@@ -12,3 +12,4 @@ So in January, McKernan joined a class-action lawsuit, along with the artists Sa
 
 “These companies are profiting wildly off our unpaid labor,” McKernan says. “Concept artists, illustrators, graphic designers, stock artists are being downsized and let go from companies who say they’re moving to AI. This is an existential crisis.”
 
+## Credentials

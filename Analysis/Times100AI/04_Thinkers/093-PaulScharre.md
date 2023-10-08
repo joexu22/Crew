@@ -16,3 +16,5 @@ Scharre is concerned about powerful AI systems falling into the hands of the U.S
 This, he admits, is a minority viewpoint in the national-security community, because “the national-security establishment tends to prioritize staying ahead of competitors.”
 
 Scharre worries that a lack of coordination, either at a national level in the form of regulation or at an international level in the form of treaties, could lead to a dangerous arms race. “It’s possible that there could be down the road some AI systems that we simply shouldn’t build. We don’t yet know. But there might be systems that are simply too dangerous to build or deploy.”
+
+## Credentials

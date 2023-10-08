@@ -16,3 +16,4 @@ Research suggests Woebot can reduce symptoms of depression and anxiety in two we
 
 “I get excited when I think about wide-scale adoption,” Darcy says. She smiles as she recalls an email from an 89-year-old man who said the robot suggested he write a narrative to help process some of his thoughts. He was stunned at how helpful the exercise proved. “[Users] all say, ‘I don’t think this was meant for me, but it’s been the most helpful thing,’” Darcy says. “It’s mental health for the modern age.”
 
+## Credentials

@@ -12,3 +12,5 @@ Hiring managers can ask Moonhub’s AI agent to find candidates for a role and s
 Moonhub is used by more than 100 companies globally ranging from NGOs to technology and finance startups. Launched in June 2022, the company had revenues above $1 million in its first year and announced a $4.4 million seed round earlier this year. (Investors in Moonhub include TIME co-chairs and owners Marc and Lynne Benioff.) This fall, the company plans to launch its “base tier,” a stand-alone AI recruiter that users can operate without human support.
 
 Xu understands the fears that AI will eliminate many jobs. But it can also sync people with the work they want to do. “In five years, AI will coordinate the vast majority of our economy,” Xu says. “In a world where AI disrupts every profession, Moonhub’s mission is to build AI that gives people access to opportunity.”
+
+## Credentials

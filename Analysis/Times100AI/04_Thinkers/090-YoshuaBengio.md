@@ -16,3 +16,5 @@ Now, Bengio intends to harness his remarkable intellectual horsepower thinking h
 In the future, says Bengio, AI could overpower us . But things could get tricky well before then. “The nearest thing is meddling with elections,” says Bengio. “That could happen by the next U.S. election.” This year, he testified before the U.S. Senate about the dangers of AI, and has written papers about AI policy and governance. He intends to start shifting his work toward technical AI-safety research.
 
 “The real question when you’re in any situation is, What can I do to reduce those risks? I can’t bring them to zero. It’s not clear that anybody can,” Bengio says. “But if we can reduce the probability of bad things by a factor of 10, well, let’s do it.”
+
+## Credentials

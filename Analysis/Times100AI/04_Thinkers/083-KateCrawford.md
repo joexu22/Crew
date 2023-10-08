@@ -30,3 +30,5 @@ I have a forthcoming book coming up next year. And a series of big research find
 My belief is that generative AI is being underestimated in terms of the social and political impact it’s going to have. I say that in full knowledge of the fact that it’s in every newspaper and everyone’s talking about it. But I still think we’re thinking too small in terms of the changes that it’s going to produce.
 
 At the most core, people fail to understand the way it is literally going to change the way that we see and understand the world. And that is a very foundational thing that goes beyond a question of deepfakes or its profound labor impacts.
+
+## Credentials

@@ -30,3 +30,5 @@ Herndon is also on the forefront of protecting visual artists in this new AI wor
 Some critics say that building an opt-out AI standard is far worse than an opt-in one and that AI companies should ask for proactive consent for every single image they put in their training datasets. But “this only really makes sense in Twitter reality,” says Herndon. “From conversations we have had across industry and policy circles, that option is not on the table, anywhere.”
 
 Herndon understands the risks but remains optimistic that if conscientious innovators can become central players, they can create an AI future with more protections and an ethical framework. “We are trying to build a consent layer for how data is used in AI training,” she says. “And so far, everyone we’ve talked to, including people building large models, are really interested and invested in having clean data.”
+
+## Credentials

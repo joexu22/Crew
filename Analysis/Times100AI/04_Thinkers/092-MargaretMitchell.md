@@ -14,3 +14,5 @@ That’s a really common misunderstanding. Bad actors will bad act, be it a clos
 If you could change one thing about the way that people talk about AI right now, what would it be?
 
 I wish that polysemy—the fact that the same word is used to mean two different things— wasn’t being abused. So learn means something different in machine learning than it does for human intelligence. That is being abused to pretend that they’re the same thing. People are misusing terminology to misdirect. And the public gets confused. That’s infuriating to see as someone who actually understands the language.
+
+## Credentials

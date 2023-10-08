@@ -12,3 +12,5 @@ Hopkins, 52, founded Exscientia in 2012, spinning the company out of his work at
 In 1996, Hopkins was a Ph.D. student working in the lab to find drugs to treat HIV. One confounding issue with the virus was its adaptability, meaning it would often develop resistance to new drugs within weeks of their use. At 2 a.m. one night, Hopkins had an epiphany of sorts: if drug discovery could be automated using AI, the rate at which scientists found new treatments could accelerate rapidly. Hopkins was especially fond of late-night walks. “We used to have lab meetings at midnight,” Hopkins says. “We often used to go to the pub and then go back to the lab and carry on.”
 
 Hopkins says he and his current team have the same spirit. “What’s incredible about the staff of Exscientia,” says Hopkins, “is how everyone is really sort of engaged in a mission: How do we improve and solve the problem of drug discovery?”
+
+## Credentials

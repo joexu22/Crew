@@ -11,3 +11,5 @@ At Google, Manyika has a wide purview over the company’s AI research and produ
 As enthusiastic as Manyika is about AI’s capabilities, he also warns of its risks. In May, Manyika signed the Center for AI Safety’s statement on AI risk, which raised the possibility of humanity’s “extinction from AI.” Manyika says his experience growing up under a system akin to apartheid in Rhodesia (now Zimbabwe) had a “deep impact” on his approach to AI and ascertaining the scenarios that should be prevented. Facial-recognition tools in the hands of an oppressive government, for example, could be disastrous.
 
 So Manyika says that his main priority is to develop products safety and to be transparent about their limitations—even if that means that Google sometimes lags behind its AI competitors. “Others will go earlier or later, some will go faster,” he says. “To me, the only race here is to get it right.”
+
+## Credentials

@@ -10,3 +10,4 @@ That model targets women. A 2019 study found that 96% of deepfakes found online 
 
 To her, the harrowing experience has made one thing clear: “AI’s relationship with gender and women is adversarial,” Jankowicz says. The author of How to Be a Woman Online and How to Lose the Information War now spends much of her time urging governments to tackle the spread of disinformation, online abuse, and deepfake pornography urgently, amid broader discussions about regulating AI. Last September, she announced the launch of the Hypatia Project at the Centre for Information Resilience, which seeks to document and combat these online harms. Without action, she warns, AI will continue to be trained on content with “an overwhelmingly male understanding of the world” and, in turn, perpetrate “significant harms” to women.
 
+## Credentials

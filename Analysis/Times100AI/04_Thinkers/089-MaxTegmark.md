@@ -39,3 +39,5 @@ Power has grown even faster than I expected, and regulation has progressed even 
 What’s the science-fiction book or film that you think best represents the most likely AI future?
 
 Adam McKay’s Don’t Look Up, is an excellent representation of where we are right now and where we’re headed, if the asteroid represents superintelligence.
+
+## Credentials

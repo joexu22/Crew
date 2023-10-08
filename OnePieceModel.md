@@ -8,14 +8,17 @@ We aren't pirates in the traditional sense; consider us as the rebels and punks 
 
 ## "The One Piece - Straw Hat" - Venture Capital Model
 
-I'm a pirate
-We're pirates, if you're with me (support me), you get the idea.
-[To clearify, I would want to avoid the criminal connotation... To put things in context, Steve Jobs described us as rebels, punks, and those that see the future. To avoid any potential pitfalls/hazards, I should state right now that I would be techncially sailing as a "privateer", flying under the standard of being a good ethical human being, but that doesn't sound as cool as calling myself and my crew pirates]
+I'm a pirate. We're pirates, if you're with me (support me), you get the idea.
 
-We're going to find the one piece
-We going to fight other crews
-Wer going to partner with other crews
-We going to against Yonko
+[Detailed Reference](<Pitches/a16z.md>)
+
+[To clearify, I would want to avoid the criminal connotation... to re-iterate I would described us as rebels, punks, and those that dare to change the future. To avoid any potential pitfalls/hazards, I should state right now that I would be techncially sailing as a "privateer", flying under the standard of being a good ethical human being, but that doesn't sound as cool as calling myself and my crew pirates]
+
+In anticipation of what the expect...
+We're going to find the one piece.
+We going to fight other crews.
+We going to partner with other crews.
+We going to against Yonko.
 
 1) Discover the 'One Piece': This isn't a treasure but rather the potential of AGI. Our goal is to position our company to harness the power of AGI as soon as it becomes viable.
 2) Combat Rivals: Just as pirates clash on the seas, we'll face competition. But it's a test of willpower, determination, and strategy.
@@ -38,7 +41,10 @@ I'm often reminded of the history of VC, it's getting money to sailers for them 
 I'm the captain your looking for.
 
 ## The Crew
+
 [This is some of the architypical framework for a successful company in the modern 21st century]
+
+[Quick Reference](https://replit.com/@joexu22/Crew#OnePieceModel/000%20-%20Navigation.md)
 
 Luffy - Captain
 Flexibility. Visionary. Good Heart/Intentions - Ethical. Playful. It's about having fun.
@@ -69,6 +75,8 @@ The Going Merry & Thousand Sunny
 [We'll need to be on the lookout for platforms that are as adaptable and resilient as AWS, Azure, and GCloud. I'm personally a practioner of "serveless", in the sense that I've tried to minimize thinking about hardware challenges. Code and reliable execution of the code... Dependant on good hardware makers...]
 
 ---
+
+## Shilling
 
 Funding Request, (Meat=?=Bacon)
 

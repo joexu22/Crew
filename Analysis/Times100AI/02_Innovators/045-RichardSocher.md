@@ -12,3 +12,5 @@ Instead of relying on invasive ads, Socher plans to monetize You.com by charging
 You.com has a steep mountain to climb to even begin to compete with Google, particularly given the latter’s massive investments in the AI space. Socher even accuses Google of “copying many of our most exciting features,” including AI code generation and multimodal search. (A Google representative did not respond to a request for comment.)
 
 But Socher has the bona fides to compete. His research in natural language processing was integral to the field’s advancement. And as a Stanford professor, he taught and advised the eventual founders of the startup Hugging Face. If his search engine actually is better than Google’s, Socher figures it will start to gain traction. “That’s the best you can hope for,” he says. “To give people answers more quickly, make them more productive, efficient, more well-informed, with better privacy.”
+
+## Credentials

@@ -1,3 +1,9 @@
+# Tagline
+
+I am many things, but I do not make it my identity
+
+## Bullets
+
 National Merit Scholar - Asian kid growing up, "emotional damage".
 Burned out - went to Bama. Roll Tide. I'm a winner.
 Did Engineering Co-op at Telecom - Huntsville, Alabama (Rocket City) think German Scientist

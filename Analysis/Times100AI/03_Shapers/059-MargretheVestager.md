@@ -11,3 +11,4 @@ To that end, Vestager has spent the past two years spearheading the creation of 
 
 While the E.U. hopes to reach a final agreement on legislation by the end of the year, Vestager says that AI regulation is fundamentally a global affair and has called for the creation of an “international code of conduct” to keep up with its rapid advancements. “We have an extreme election year ahead of us,” she says, “and technology is developing very, very fast.” The E.U.’s AI law could be Vestager’s final contribution to this. In September, she announced that she is taking a leave of absence from the Commission in order to focus on her candidacy to lead the European Investment Bank. If successful, she will take up her new post in January 2024.
 
+## Credentials

@@ -10,3 +10,5 @@ Illustration by TIME; reference image courtesy of Sougwen Chung
 Chung is now on the fifth version of the D.O.U.G. (Drawing Operations Unit Generation_X) robot. The most advanced robot absorbs not only their past artwork but also their present state of mind: it can be linked to their EEG data and alpha brain waves, and will paint more actively when they hit a flow state of meditation.
 
 Chung splits their time between London and New York these days, and is continually pushing their experiments into new territory. They have been working with a 3D motion-capture system to create sculptures, and researching ways to power their systems with alternative energy sources like microbial cell batteries. They also head up a studio, Scilicet, in which a growing group of artists are exploring AI art alongside them. “The technology we’re building helps reshape how I paint, meditate, perform—and that changes the nature of the drawing entirely,” they say. “Allowing that feedback loop really catalyzes technical development, but also creative growth as well.”
+
+## Credentials

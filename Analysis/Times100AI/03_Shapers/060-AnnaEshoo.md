@@ -12,3 +12,5 @@ Eshoo has also been writing laws to regulate AI. The overnight success of AI-pow
 She has also introduced legislation this year to require the Administration for Strategic Preparedness and Response to study potential threats of AI on U.S. biosecurity, including how it could be used by malevolent actors to develop novel pathogens like SARS-CoV or the Ebola virus. Additional legislative goals include a bill to establish a national AI research resource to provide access to data and tools needed to develop safe and trustworthy AI—and to hold large social media platforms accountable for their algorithmic amplification of harmful content that leads to offline violence.
 
 AI regulation is still in its early stages, but Eshoo sees a consensus among lawmakers to come up with a policy framework: “AI holds enormous promise and we want that innovation and that promise to be realized, but we also need to address what the experts are telling us are perils.”
+
+## Credentials

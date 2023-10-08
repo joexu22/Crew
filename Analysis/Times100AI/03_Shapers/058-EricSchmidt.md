@@ -26,3 +26,5 @@ There’s so many ways in which AI could be distorted by [China’s] values. The
 You’ve been speaking out on the need for the U.S. to fix its immigration system to compete with China on tech, why?
 
 On the list of stupid things America does, I propose that the single stupidest is we take the smartest people in the world who want to come here, we educate them to death, and then we kick them out. They go to these other countries and create tech competitors and military competitors. Don’t you think we should get the top Iranian scientists into America, the top Russian scientists, the top Chinese scientists? It’s not that complicated.
+
+## Credentials

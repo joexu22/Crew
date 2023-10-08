@@ -37,3 +37,4 @@ How important is it that governments have Ministers specifically focused on AI?
 
 AI technology is so profound that we can actually look back in history to understand why we need to create a ministry for it. When humanity used to depend on coal and wood fire for energy, there was no ministry of energy. When it became paramount to actually ensure energy production and energy distribution, what happened is that every single government in the world appointed a Minister for energy. The same happened with telecommunications. I do believe that AI is at the same level.
 
+## Credentials

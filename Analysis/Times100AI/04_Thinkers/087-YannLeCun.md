@@ -58,3 +58,5 @@ I think I’ve always been somewhat opinionated and not afraid of speaking. I’
 There’s no question working at Meta colors my opinion, to some extent. But it gives me a view of how sausages are made. I see the motivation of people. And the motivations you might think are driving the company are not the ones I’m seeing.
 
 So when people say, “You cannot be ethical and work at Meta, because it’s intrinsically unethical,” I have to say no. There are side effects you can’t predict sometimes, and mistakes you make. But you’re trying to do the right thing.
+
+## Credentials

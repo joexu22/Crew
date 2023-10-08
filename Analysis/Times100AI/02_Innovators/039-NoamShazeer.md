@@ -51,3 +51,5 @@ Read More: AI-Human Romances Are Flourishing—And This Is Just the Beginning
 Character.AI chats come with an overhead banner that reminds the user that “everything Characters say is made up.” Shazeer says the company engineers its bots to prevent them from encouraging self-harm. “We hope that our products get used to facilitate and enhance real human connection,” he states carefully.
 
 Nevertheless, it’s pretty clear Shazeer’s primary goal is wide adoption of his product. He lights up when I draw a parallel between Character.AI and the early AOL chat rooms of the internet, which were filled with boundary-pushing exchanges but nonetheless served to bring thousands of users online. “The dawn of the internet was the beginning of fully accessible information,” Shazeer says. “And right now, we are living through the beginning of universally accessible intelligence.”
+
+## Credentials

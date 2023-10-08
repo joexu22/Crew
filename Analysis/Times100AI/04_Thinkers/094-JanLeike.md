@@ -17,3 +17,4 @@ Perhaps because he works on practical fixes for alignment rather than thought ex
 
 “So much is still up in the air. Humans have a lot of ownership over what happens, and we should try hard to make it go well,” says Leike. “[Avoiding AI catastrophe] is, in some sense, everyone’s responsibility, because it will probably take a lot of people working together and making the right calls at the right time.”
 
+## Credentials

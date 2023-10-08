@@ -22,3 +22,5 @@ Legg is certainly one of them. He says he doesn’t know what life will look lik
 Meanwhile, polling conducted by the AI Policy Institute (AIPI) in July found that 62% of Americans were concerned about AI, while only 21% were excited. Daniel Colson, co-founder and executive director of the AIPI, says that the negative effects of social media have increasingly led the American public to be “completely skeptical of that idea that scientific and technological progress is by default positive for society.” He argues that the risks posed by the development of ever more powerful AI systems, which Legg himself acknowledges are enormous, justify halting their development.
 
 Legg thinks we can get it right. “If it is making the world a better and more ethical place, then that’s very exciting,” he says. “I think there are many problems in the world that could be helped by having an extremely capable and ethical intelligence system. The world could become a much, much better place.”
+
+## Credentials

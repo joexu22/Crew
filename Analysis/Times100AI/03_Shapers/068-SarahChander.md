@@ -16,3 +16,5 @@ In the early stages of drafting the law, the E.U.’s focus appeared to be on th
 Chander and EDRi mobilized a coalition of 150 lawyers, activists, academics, and civil society organizations to demand greater transparency through publicly available databases about how these systems are used, as well as a legal framework of redress for those directly affected. And when it comes to cross-border migration, the technology shouldn’t be used to police migrants at all, says Chander, because it is “so wholly harmful that it cannot be improved.”
 
 In June, the European Parliament accepted many of EDRi’s demands. It agreed on the need for a ban on facial recognition in public spaces and on predictive policing, along with more transparency and legal frameworks for the public. These developments have made Chander “optimistic” ahead of E.U. discussions in the fall. “We’re talking about the first AI legislation in the world, and these are complicated debates with many competing interests,” she says.****
+
+## Credentials

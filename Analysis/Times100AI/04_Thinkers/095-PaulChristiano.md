@@ -40,3 +40,5 @@ You’ve been part of the alignment community longer than most. Are there ways i
 Realistically, the thing that seems most important is just bringing in a lot more people who care about alignment. Back in 2012, it made sense that this is a thing which you would think about only if you were really obsessed with humanity’s long-term future, or unusually excited about AI, or something like that. We’re not seeing the risks we’re concerned about appearing in the world today, but I think it’s much easier to draw the line between where we are today and future risks.
 
 From a social-impact perspective, it also makes sense for just way more people to think about this. It’s something states should be taking an active interest in and broader society should be taking active interest in. Smart people are becoming interested in these questions, and it is expanding in a new different direction from the [machine-learning] academics and the Bay Area tech scene.
+
+## Credentials

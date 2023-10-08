@@ -13,3 +13,4 @@ One relevant data point: the continent is home to 65% of the world’s uncultiva
 
 And there are other, novel applications. Amini hopes its data can facilitate the preservation of African forests and other natural environments that store carbon in exchange for funding from countries in the Global North. Amini monitors to measure what’s actually being protected—and to ensure that it stays that way. “If we reach the level we are aiming for, you’ll see a much different Africa in a couple of years,” says Kallot.
 
+## Credentials

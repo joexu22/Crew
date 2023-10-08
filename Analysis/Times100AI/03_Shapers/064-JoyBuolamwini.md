@@ -44,3 +44,4 @@ Sadly some of what I warned about years ago is becoming reality: false arrests, 
 
 I wouldn’t have predicted Rolling Stone would feature five women who risked their careers and reputations to warn about the AI harm that now grabs headlines. People are thirsty to see themselves represented in conversation about the future of AI.
 
+## Credentials

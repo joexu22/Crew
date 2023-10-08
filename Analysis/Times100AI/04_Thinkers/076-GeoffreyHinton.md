@@ -46,3 +46,7 @@ Instead, Hinton has spent the past few months sounding the alarm—he can explai
 While on a theoretical level he now grasps the risks from AI, Hinton says that his emotions haven’t yet caught up. “The idea that we’re going to be replaced as the apex intelligence is just very hard to get your head around.”
 
 But for now, he takes his cues from another relative: his cousin Joan Hinton was one of the only women scientists to work on the Manhattan Project. After the nuclear weapons that she helped to create were dropped on Hiroshima and Nagasaki, she became a peace activist. In 1948 she moved to China, and she spent most of the rest of her life working on dairy farms as an ardent Maoist. Hinton’s own retirement plans are less strident but likewise bucolic: he intends to rediscover carpentry and take long walks.
+
+## Credentials
+
+ - Lab in New York

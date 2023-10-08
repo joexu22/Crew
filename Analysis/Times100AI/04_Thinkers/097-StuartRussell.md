@@ -13,3 +13,4 @@ Yet on balance, Russell feels more optimistic than he did a decade ago. Recent a
 
 The aliens may arrive sooner than we previously thought. But Russell is heartened by the reaction to the open letter. “At the end of March,” he says, “humanity returned to the office.”
 
+## Credentials

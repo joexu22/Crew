@@ -36,3 +36,10 @@
 > AGI wakes up, its first words will be: "daddy Altman, what's the wifi password for the multiverse?"
 > mfw Sam ALT-MAN literally built an alt to man
 > still SAMA, still Silicon Valley's doomsday prepper king, still out-twinking Thiel in the tech-gladiator arena, still AGI's numero uno 'Papi', still treating Daedalus' resume like it's adware, still a confirmed unlock in the next-gen history DLC, still living up to the 'Alt' in Altman—buckle up, anon, we're just getting started
+
+## Credentials
+
+## Knowing The Person ()
+
+Joe Rogan Podcast
+Ep 2044

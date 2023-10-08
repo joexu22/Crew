@@ -12,3 +12,5 @@ But for right now, the project Moiloa is most passionate about is training AI mo
 At this foundational stage, Moiloa calls it essential that a diverse group of people are involved.
 
 “Technology really has the capability to make life a little bit nicer for everyone. But if we don’t create it with that kind of intention, then the absolute opposite is true,” says Moiloa. “So it’s important for us as Africans to own that narrative and own what we want to write into our futures from a code perspective.”
+
+## Credentials

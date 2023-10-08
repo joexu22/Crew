@@ -12,3 +12,5 @@ Other mangaka and animators are worried about their jobs. Iconic horror mangaka 
 “It is not uncommon to see manga artists using software such as Unreal Engine and Unity to apply 3D [computer graphics] to their manga,” he says. “Even with such technological advances, there are still manga artists who create almost all of their work by hand.”
 
 Rootport will continue to use AI to illustrate, he says: “For most manga artists, the ‘story they want to express’ should be their first priority. Technology is merely a means to express that story.”
+
+## Credentials

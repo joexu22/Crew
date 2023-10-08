@@ -7,3 +7,4 @@ Clark, who co-founded Anthropic and serves as its policy chief, is grappling wit
 
 Christopher Nolan’s biopic about J. Robert Oppenheimer, the flawed creator of the atom bomb—whose efforts at postwar arms control ended in failure—resonated with Clark. “The thing I really liked about Oppenheimer was how large the political infighting figured,” he says. “Technologists spend a lot of time thinking it’s about building and engineering the thing, and after that, people will listen to you because you built it. But one of the lessons from Oppenheimer is: You can build it and you can lose the larger political game. The consequences of that can be technology that gets used in wild ways that you don’t necessarily like.”
 
+## Credentials

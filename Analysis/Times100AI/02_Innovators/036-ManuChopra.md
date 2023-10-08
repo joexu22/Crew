@@ -8,3 +8,5 @@ The data that makes today’s cutting-edge AI systems possible often originates 
 Read More: The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That
 
 “I genuinely feel this is the quickest way to move millions of people out of poverty if done right,” Chopra, who was born into poverty and won a scholarship to Stanford that changed the course of his life, told TIME. “Wealth is power. And we want to redistribute wealth to the communities who have been left behind.”
+
+## Credentials

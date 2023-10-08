@@ -19,3 +19,5 @@ That it’s not magic. It’s simply math, put into code. The first thing is, al
 What do even some experts get wrong about artificial intelligence?
 
 This idea of sentience. It is amazing to me how many people, even if they’re an expert, confuse a user design that mimics chat functionality as sentience. Being so duped by a natural and easy-to-use chat interface that creates language that is reasonably readable, and just to be so easily fooled by that! We have not even figured out what consciousness comes from in humans.
+
+## Credentials

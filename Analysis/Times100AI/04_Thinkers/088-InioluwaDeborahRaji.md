@@ -18,3 +18,5 @@ In the absence of governmental regulation, Raji notes that it’s currently up t
 Through a fellowship with the Mozilla Foundation, a global nonprofit focused on internet protection, she’s been working on identifying open-source audit tools that would allow any stakeholder—from government officials to those likely to be impacted by the systems—to better understand and challenge products before they are implemented at broader scales.
 
 “When you start questioning these claims at a basic level, it just reveals that the whole question is much more complex than it seems on the surface,” she says. “It’s like opening up Pandora’s box.”
+
+## Credentials

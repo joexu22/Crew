@@ -35,3 +35,5 @@ As a member of the Institute for Advanced Study’s AI working group, she liaise
 2024 Election Concerns for US Administration
   - deepfake videos that target politicians, and could be 
   - weaponized by lobbying groups to disseminate falsehoods
+
+## Credentials

@@ -10,3 +10,5 @@ Six years in, some of these solutions are starting to emerge. In April, the inst
 The institute has also partnered with the Indian government to launch a clinical-decision-support system that helps physicians and frontline workers diagnose faster based on datasets. “In just 90 days, that system is now being used for over 4 million consultations a month,” Sunil says.
 
 The Wadhwani brothers say India, with a diverse population of 1.4 billion, perfectly suits the Institute’s mission of altruistic research. “Other countries simply don’t have the combination of capabilities or opportunities that India has,” says Romesh Wadhwani.
+
+## Credentials

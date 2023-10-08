@@ -14,3 +14,4 @@ Past conferences have brought together people who eventually co-founded startups
 
 “My personal mission is to work on machine learning that has a social purpose,” says Mohamed. By way of warning that without proper representation from people all over the world, new technologies like AI can easily cause harm, he cites an example: Researchers used innovative forecasting techniques to predict the El Niño weather system in Peru in 1998. But those forecasts were often misinterpreted and in some cases ignored by the fishing industry, in part because scientists didn’t know how to communicate with fishermen. Mohamed wants to work on projects that place the needs of local communities at the forefront of AI research. “This is one of the values that drives my work,” he says.
 
+## Credentials

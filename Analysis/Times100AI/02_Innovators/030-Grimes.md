@@ -6,3 +6,5 @@ Musician
 
 Illustration by TIME; reference image: Robyn Beck—AFP/Getty Images
 This year, Grimes, whose real name is Claire Boucher, unveiled an AI software, Elf.Tech, that allows other people to sing through her voice, and encouraged musicians to release songs using it, provided that they split royalties with her. Grimes liked some of the songs so much that her reaction to them was “Oh, sick, I might get to live forever,” she told Wired. While other musicians fiercely protect their likeness and intellectual property, Grimes has said she is trying to “open-source” her identity: to essentially relinquish herself to the public. In the coming years, Grimes says she hopes to create an album in which the “AI-hive-mind-collective Grimes and the real Grimes face off.”
+
+## Credentials

@@ -39,3 +39,5 @@ Narayanan: I’ve been working on tech accountability for 15-plus years … I th
 Kapoor: As an engineer by training, I think [AI] has been super useful and the impact can hardly be overstated. I think the reason a lot of what we write on the blog seems to be critical is because there is a pretty big vacuum in the space of people who have the capacity to respond to AI critically, but also have the incentive.
 
 If either of us were in the industry, or if we were working at one of these companies, it would be much harder for us to talk about the harmful impacts of AI. It would be much harder to get outside the existential-risk bubble and get a realistic view.
+
+## Credentials

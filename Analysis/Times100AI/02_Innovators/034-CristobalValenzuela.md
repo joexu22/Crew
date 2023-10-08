@@ -11,3 +11,5 @@ But Valenzuela, 33, doesn’t see Runway’s mission as being in conflict with t
 Still, Valenzuela concedes that, if the technology progresses as he imagines that it will, many jobs in the creative industry will cease to exist. That’s not exactly new, he points out. “We used to have orchestras in theaters,” he says. “There’s no orchestra playing music for silent movies, because we’ve assumed collectively having talkies, or movies with sound, is better than having an orchestra.”
 
 Valenzuela hopes that AI tools will allow more people to share their stories. “I actually truly believe the best era of cinema is to come, the best movies are yet to be made. We haven’t seen stories from around the world from people that we might have never heard before, because the craft of filmmaking used to be and it still is extremely expensive and difficult to understand and work with. The moment you start making that technology more accessible, more people will be able to become and consider themselves filmmakers. And I think that’s what really matters.”
+
+## Credentials

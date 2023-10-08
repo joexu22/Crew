@@ -36,3 +36,4 @@ India has been thinking about it because it’s been technology that has helped 
 
 So the approaches have been different. But even just since GPT came out, the level of sophistication for policymakers around the world has risen super quickly.
 
+## Credentials
