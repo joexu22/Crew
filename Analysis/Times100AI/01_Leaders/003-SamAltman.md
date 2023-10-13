@@ -39,7 +39,32 @@
 
 ## Credentials
 
+Former President of Y Combinator
+
 ## Knowing The Person ()
 
-Joe Rogan Podcast
-Ep 2044
+Joe Rogan Podcast - Ep 2044
+
+## Topics
+
+**Low paid workers - RLHF**
+
+**Super-Alignment** - dedicate 20% budget
+
+The goal is the **Educate** people about the technology
+
+## Opinions
+
+Leave the decisions to institution and civil society
+
+AI tools in the pursuit of productive labor, education, and fun
+
+Optimism in Humanities adaptability to increasingly powerful AI. 
+
+Gradual introduction of AI into society.
+
+Policy Oriented - Lawmakers & Governance
+
+## Analysis
+
+Real educators. People who truly want people to learn and understand what is going on. As educators, I feel that OpenAI probably defers executive decisions to the "institutions" and "civil society" - after of course education them with all the knowledge. I'm not as cynical towards OpenAI as many others seem to be regarding Regulatory Capture and Cynical business practices.

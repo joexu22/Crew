@@ -8,16 +8,16 @@ Concept -
 
 Big 5 Personally Traits
   - Very High Trait Openness
-  - High Contiounetiousness (applied effort over many years)
+  - High Conscientiousness (applied effort over many years)
   - High Disagreeableness
-  - Low Neurotism
+  - Low Neuroticism
   - High IQ
 
 Latent Capabilities
 
 Social Resistance
   - agreeableness
-  - new ideas are stupid - innovators are okay with social discomfort (to the level of ostricism)
+  - new ideas are stupid - innovators are okay with social discomfort (to the level of ostracism)
 
 Getting punched in the face - eventually you like the taste of your own blood
 
@@ -35,7 +35,7 @@ Authenticity of these Traits
   - increasingly probing question
 
 business to business
-busines to consumer
+business to consumer
 
 JOKE
 
@@ -66,7 +66,7 @@ austin, new york, san fran
 personal relationship
 in the context of founders
 difficult
-partnership...compatabiity
+partnership...compatibility
 emotional support
 
 risk taking
@@ -77,5 +77,5 @@ Dinner Party NO NO theories
   
   - highly accomplished person -> blow themselves up
     - moral arc
-  - martyers to civ progress
-  - these people are pushing the boundries of civilization
+  - martyrs to civilization progress
+  - these people are pushing the boundaries of civilization
