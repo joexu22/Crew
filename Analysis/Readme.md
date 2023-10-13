@@ -1,3 +1,3 @@
 # AI Landscape
 
-Got the understand the landscape of AI before maving massive moves...
+trying to understand the ai landscape before making any moves
